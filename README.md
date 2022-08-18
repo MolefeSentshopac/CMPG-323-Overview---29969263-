@@ -12,3 +12,6 @@ It is to make sure that certain files that can not be tracked by github remian u
 
 ## Storage of information and sensitive information
 
+
+## List of repositories 
+https://github.com/MolefeSentshopac/CMPG-323-Overview---29969263-/edit/main/README.md
