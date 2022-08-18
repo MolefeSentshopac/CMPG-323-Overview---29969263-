@@ -6,3 +6,9 @@ My branching strategy is the github flow branching strategy see diagram below.
 
 ## Project and repository structure 
 The project repository structure looks like 
+
+## .Gitignore file
+It is to make sure that certain files that can not be tracked by github remian untracked 
+
+## Storage of information and sensitive information
+
